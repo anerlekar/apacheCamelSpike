@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CamelSpike.iml" filepath="$PROJECT_DIR$/CamelSpike.iml" />
+      <module fileurl="file://$USER_HOME$/camel-example/camel-example-jms-file/camel-example-jms-file.iml" filepath="$USER_HOME$/camel-example/camel-example-jms-file/camel-example-jms-file.iml" />
+    </modules>
+  </component>
+</project>
+
